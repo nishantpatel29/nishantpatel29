@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nishant and I'm a web Developer, from Gandhinagar</h2>
+<h1 align="center">Hi 👋! My name is Nishant and I'm a web Developer, from Gandhinagar</h1>
 
 ###
 
